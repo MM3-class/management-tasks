@@ -1,0 +1,14 @@
+.App {
+    background-color: #EDEDED;
+    width: 60%;
+    height: auto;
+    margin: 0 auto;
+    background-image: url(/src/assets/CircleDesign.png);
+    background-repeat: no-repeat;
+  }
+
+  @media screen and (max-width: 768px) {
+    .App {
+        width: 100%;
+    }
+  }
